@@ -145,4 +145,3 @@ def get_pending_changes():
         "total": 2,
         "message": "Demo pending approvals"
     }
-```
