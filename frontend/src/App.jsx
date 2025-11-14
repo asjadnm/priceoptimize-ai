@@ -251,4 +251,3 @@ function AnalyticsSummary({ analytics }) {
 }
 
 export default App
-```
