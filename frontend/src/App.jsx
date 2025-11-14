@@ -252,24 +252,3 @@ function AnalyticsSummary({ analytics }) {
 
 export default App
 ```
-
-4. Click **"Commit changes"**
-
----
-
-## **✅ CHECKPOINT: All Files Added**
-
-Your GitHub repo should now have:
-```
-priceoptimize-ai/
-├── main.py
-├── requirements.txt
-├── render.yaml
-└── frontend/
-    ├── package.json
-    ├── index.html
-    ├── vite.config.js
-    └── src/
-        ├── main.jsx
-        ├── index.css
-        └── App.jsx
